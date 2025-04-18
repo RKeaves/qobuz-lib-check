@@ -40,11 +40,6 @@ _A Tampermonkey/Greasemonkey userscript to instantly check if the currently view
 
 ## Installation
 
-1. Visit the [GitHub Releases page](https://github.com/rkeaves/qobuz-lib-check) and click **Install**.  
-2. Confirm installation in your userscript manager.
-
-Or manually add the script URL:
-
 ```bash
 https://github.com/rkeaves/qobuz-lib-check/raw/main/qobuz-lib-check.js
 ```
