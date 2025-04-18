@@ -112,9 +112,5 @@ Please open an issue or PR on [GitHub](https://github.com/rkeaves/qobuz-lib-chec
 This project is licensed under **GPL‑3.0‑or‑later**. See the [LICENSE](https://github.com/rkeaves/qobuz-lib-check/blob/main/LICENSE) file for details.
 
 ---
+[rkeaves](https://github.com/rkeaves)  
 
-## Author
-
-**rkeaves**  
-- GitHub: [@rkeaves](https://github.com/rkeaves)  
-- Repo: [rkeaves/qobuz-lib-check](https://github.com/rkeaves/qobuz-lib-check)  
